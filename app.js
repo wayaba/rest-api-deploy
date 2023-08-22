@@ -1,7 +1,7 @@
 import express, { json } from 'express'
 
-import { corsMiddleware } from './middlewares/cors'
-import { moviesRouter } from './routes/movies'
+import { corsMiddleware } from './middlewares/cors.js'
+import { moviesRouter } from './routes/movies.js'
 // asi no anda en EMSModules
 // import movies from './movies.json'
 

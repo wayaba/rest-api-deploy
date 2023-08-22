@@ -18,6 +18,8 @@
     "zod": "3.21.4"
   },
   "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-plugin-react": "^7.33.2",
     "standard": "^17.1.0"
   },
   "eslintConfig": {
